@@ -14,3 +14,4 @@ The following are the benfits of using jsonPowerDB:
 -> Pluggable and user defined API
 
 6) Minimize total cost of ownership
+#visit https://login2explore.com/jpdb/index.html for more info.
