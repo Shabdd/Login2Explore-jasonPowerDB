@@ -1,5 +1,5 @@
 # LOGIN FORM 
-*Here I have built a demo login page to implement jason Power database (JsonPowerDB) developed by Login2Explore https://login2explore.com/#contact 
+* Here I have built a demo login page to implement jason Power database (JsonPowerDB) developed by Login2Explore https://login2explore.com/#contact 
 
 * The following are the benfits of using jsonPowerDB:
 
